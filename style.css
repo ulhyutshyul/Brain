@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+
+}
+.n {
+    color: blue;
+}
+.k {
+    width: 600px;
+    height: 2px;
+    background-color: blueviolet;
+}
+.f {
+    width: 600px;
+    height: 600px;
+}
+footer {
+    background-color: blueviolet;
+    border: 2px dashed yellow;
+      padding: 10px 50px 10px 50px;
+       font-size: 17px;
+}
+header {
+    background-color: blueviolet;
+    border: 2px dashed yellow;
+    padding: 10px 50px 10px 50px;
+     font-size: 17px;
+}
+p {
+    font-size: 17px;
+}
